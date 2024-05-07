@@ -6,7 +6,7 @@ Copyright (c) 2024 Innovation Craft.
 
 RSA Cryptorは、強力なRSA暗号化アルゴリズムを使用してデータを安全に保護するためのソフトウェアです。<br>このソフトウェアを使用することで、機密性の高い情報を送受信する際に安心して利用できます。
 
-[Download](https://github.com/Divings/RSA-Cryptor/releases/tag/V1.5.6)
+[Download](https://github.com/Divings/RSA-Cryptor/releases/tag/V1.5.7)
 
 ### 主な特長：
 
