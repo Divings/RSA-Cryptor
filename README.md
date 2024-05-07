@@ -7,7 +7,7 @@ Copyright (c) 2024 Innovation Craft.
 RSA Cryptorは、強力なRSA暗号化アルゴリズムを使用してデータを安全に保護するためのソフトウェアです。<br>このソフトウェアを使用することで、機密性の高い情報を送受信する際に安心して利用できます。
 
 注意:このソフトウェアは大きなファイルを暗号化する際にエラーになります。<br>
-(これは本ソフトウェアの使用上の都合です)
+(暗号化可能なデータの最大長は245バイトです。)
 
 [Download](https://github.com/Divings/RSA-Cryptor/releases/tag/V1.5.7)
 
