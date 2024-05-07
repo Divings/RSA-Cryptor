@@ -1,4 +1,3 @@
-# RSA-Cryptor
 ## RSA Cryptor
 
 Copyright (c) 2024 Innovation Craft.
@@ -6,6 +5,8 @@ Copyright (c) 2024 Innovation Craft.
 このソフトウェアは、著作権法によって保護されています。<br>無断での複製、改変、再配布は禁止されています。
 
 RSA Cryptorは、強力なRSA暗号化アルゴリズムを使用してデータを安全に保護するためのソフトウェアです。<br>このソフトウェアを使用することで、機密性の高い情報を送受信する際に安心して利用できます。
+
+[Download](https://github.com/Divings/RSA-Cryptor/releases/tag/V1.5.5)
 
 ### 主な特長：
 
